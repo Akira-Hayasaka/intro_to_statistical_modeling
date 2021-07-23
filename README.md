@@ -26,6 +26,6 @@
 
 <!-- ## links -->
 
-[kubopage]: http://hosho.ees.hokudai.ac.jp/~kubo/ce/IwanamiBook.html
+[kubopage]: https://kuboweb.github.io/-kubo/ce/IwanamiBook.html
 [tfp]: https://www.tensorflow.org/probability/
 [pymc3]: https://docs.pymc.io/
